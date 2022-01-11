@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbUZIJRYlZiXQudo+wTGH5YGsSmIgjETaebmlayIwZfAI3ghWNrSSZbNLoZljCKQ8TZiJrf8AfkL+8vB46mWTw==",
+  "success": true,
+  "projectFilePath": "E:\\code_stuff\\Glyph\\Glyph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARobo\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\ARobo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
