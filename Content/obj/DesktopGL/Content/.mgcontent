@@ -4,12 +4,12 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/code_stuff/Glyph/Content/Basic_Background_Frame.png</File>
-    <File>E:/code_stuff/Glyph/Content/Basic_Block.png</File>
-    <File>E:/code_stuff/Glyph/Content/Basic_Wall.png</File>
-    <File>E:/code_stuff/Glyph/Content/Buster.png</File>
-    <File>E:/code_stuff/Glyph/Content/Layer_0.png</File>
-    <File>E:/code_stuff/Glyph/Content/TestChar_Small.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/Basic_Background_Frame.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/Basic_Block.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/Basic_Wall.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/Buster.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/Layer_0.png</File>
+    <File>E:/code_stuff/Project_Glyph/Content/TestChar_Small.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

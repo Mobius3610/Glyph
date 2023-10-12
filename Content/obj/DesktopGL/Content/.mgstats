@@ -1,7 +1,7 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"E:/code_stuff/Glyph/Content/Basic_Background_Frame.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/Basic_Background_Frame.xnb","TextureProcessor","Texture2DContent",7752,6220885,0.5078081
-"E:/code_stuff/Glyph/Content/Basic_Block.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/Basic_Block.xnb","TextureProcessor","Texture2DContent",745,65621,0.0054715
-"E:/code_stuff/Glyph/Content/Basic_Wall.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/Basic_Wall.xnb","TextureProcessor","Texture2DContent",659,32853,0.0039208
-"E:/code_stuff/Glyph/Content/Buster.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/Buster.xnb","TextureProcessor","Texture2DContent",692,4181,0.0025488
-"E:/code_stuff/Glyph/Content/Layer_0.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/Layer_0.xnb","TextureProcessor","Texture2DContent",6600,8294485,0.371409
-"E:/code_stuff/Glyph/Content/TestChar_Small.png","E:/code_stuff/Glyph/Content/bin/DesktopGL/Content/TestChar_Small.xnb","TextureProcessor","Texture2DContent",886,4181,0.0058434
+"E:/code_stuff/Project_Glyph/Content/Basic_Background_Frame.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/Basic_Background_Frame.xnb","TextureProcessor","Texture2DContent",7752,6220885,0.254319
+"E:/code_stuff/Project_Glyph/Content/Basic_Block.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/Basic_Block.xnb","TextureProcessor","Texture2DContent",745,65621,0.0021315
+"E:/code_stuff/Project_Glyph/Content/Basic_Wall.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/Basic_Wall.xnb","TextureProcessor","Texture2DContent",659,32853,0.0022544
+"E:/code_stuff/Project_Glyph/Content/Buster.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/Buster.xnb","TextureProcessor","Texture2DContent",692,4181,0.0011343
+"E:/code_stuff/Project_Glyph/Content/Layer_0.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/Layer_0.xnb","TextureProcessor","Texture2DContent",6600,8294485,0.1930417
+"E:/code_stuff/Project_Glyph/Content/TestChar_Small.png","E:/code_stuff/Project_Glyph/Content/bin/DesktopGL/Content/TestChar_Small.xnb","TextureProcessor","Texture2DContent",886,4181,0.0029969
